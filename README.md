@@ -32,7 +32,7 @@ Průběh stahování:
 LET'S GO!
 DOWNLOADING DATA FROM THE SELECTED URL: https://www.volby.cz/pls/ps2017nss/ps32?xjazyk=CZ&xkraj=11&xnumnuts=6207
 ELECTION RESULTS WAS SAVED TO FILE: vysledky_znojmo.csv
-EXITING election_sraper...
+EXITING election_scraper...
 ```
 Částečný výstup:
 ```
