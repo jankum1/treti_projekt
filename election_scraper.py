@@ -31,7 +31,7 @@ def election_scraper(url: str, output_file: str):
         else:
             table_to_csv(table_of_results, output_file)
             print(f"ELECTION RESULTS WAS SAVED TO FILE: {output_file}")
-            print("EXITING election_sraper...")
+            print("EXITING election_scraper...")
             exit()
 
 
